@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently not working
 
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
-
 - 💬 Ask me about **JavaScript, HTML, CSS, React JS, React Native**
 
 - 📫 How to reach me **tayse_rosa@yahoo.com.br**
