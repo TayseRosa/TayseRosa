@@ -6,9 +6,11 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React JS, React Native**
 
-- 📫 How to reach me **tayse_rosa@yahoo.com.br**
-
 - 📫 LinkedIn: https://www.linkedin.com/in/tayse-rosa-3b683151/
+
+- 📫 Site: https://www.tayserosa.dev
+
+- 📫 GitHub: https://github.com/TayseRosa
 
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )](https://www.tayserosa.dev)
