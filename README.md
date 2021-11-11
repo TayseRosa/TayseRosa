@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-</p>
+
 
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )](https://www.tayserosa.dev)
@@ -46,8 +46,7 @@
 [![Blog](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
 )](https://www.tayserosa.dev)
 
-
-
-
 [![Blog](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 )](https://www.tayserosa.dev)
+  
+  </p>
