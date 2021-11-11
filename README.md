@@ -19,11 +19,3 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 </p>
-
-
-<p align="center">
-<a href="https://codepen.io/tayserosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tayserosa" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/tayse-rosa-3b683151" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="TayseRosa" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/16688382/tayse-rosa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tayserosa" height="20" width="20" /></a>
-</p>
-
