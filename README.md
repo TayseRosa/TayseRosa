@@ -26,3 +26,5 @@
 )](https://www.tayserosa.dev)
 [![Blog](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 )](https://www.tayserosa.dev)
+
+![tayserosa GitHub stats](https://github-readme-stats.vercel.app/api?username=tayserosa&show_icons=true&theme=radical)
