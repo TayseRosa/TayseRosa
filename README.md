@@ -29,7 +29,7 @@
 
 ![tayserosa GitHub stats](https://github-readme-stats.vercel.app/api?username=tayserosa&show_icons=true&theme=radical)
 
-## Tecnologias do meu ❤️
+## Technologies of my heart ❤️
 [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )](https://www.tayserosa.dev)
 [![Blog](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
