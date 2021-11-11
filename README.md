@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **tayse_rosa@yahoo.com.br**
 
+- 📫 LinkedIn: https://www.linkedin.com/in/tayse-rosa-3b683151/
+
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )](https://www.tayserosa.dev)
 [![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
