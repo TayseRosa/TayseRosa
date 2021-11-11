@@ -19,3 +19,9 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 </p>
+
+[![Blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+)](https://www.tayserosa.dev)
+
+[![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+)](https://www.tayserosa.dev)
