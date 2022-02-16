@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Desenvolvedora Javascript - Web / Mobile 🚀</h3>
 
 
-- 🔭 I’m currently not working
+- 🔭 I’m working on personal projects.
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React JS, React Native**
 
