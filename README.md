@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on personal projects.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React JS, React Native**
+- 💬 Ask me about **HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT JS, REACT NATIVE, WORDPRESS (DESENVOLVIMENTO DE TEMAS E PLUGINS)**
 
 - 📫 LinkedIn: https://www.linkedin.com/in/tayse-rosa-3b683151/
 
