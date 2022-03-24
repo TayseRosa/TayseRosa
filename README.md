@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tayse Rosa</h1>
-<h3 align="center">🚀 Desenvolvedora Javascript - Web / Mobile 🚀</h3>
+<h3 align="center">🚀 Desenvolvedora Javascript - www.tayserosa.dev 🚀</h3>
 
 
 - 🔭 I’m working on personal projects.
