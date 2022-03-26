@@ -1,16 +1,15 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tayse Rosa</h1>
-<h3 align="center">🚀 Desenvolvedora Javascript - www.tayserosa.dev 🚀</h3>
+<p align="center">🚀 Desenvolvedora Javascript - www.tayserosa.dev 🚀</p>
 
-
-- 🔭 I’m working on personal projects.
-
-- 💬 Ask me about **HTML, CSS, SASS, JAVASCRIPT, TYPESCRIPT, REACT JS, REACT NATIVE, WORDPRESS (DESENVOLVIMENTO DE TEMAS E PLUGINS)**
+- 🔭 I’m not working currently
 
 - 📫 LinkedIn: https://www.linkedin.com/in/tayse-rosa-3b683151/
 
 - 📫 Site: https://www.tayserosa.dev
 
 - 📫 GitHub: https://github.com/TayseRosa
+
+## 🚀 Technologies i know
 
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )](https://www.tayserosa.dev)
@@ -31,6 +30,7 @@
 [![Blog](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 )](https://www.tayserosa.dev)
 
+
 ![tayserosa GitHub stats](https://github-readme-stats.vercel.app/api?username=tayserosa&show_icons=true&theme=radical)
 
 ## Technologies of my heart ❤️
@@ -45,7 +45,6 @@
 [![Blog](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 )](https://www.tayserosa.dev)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayserosa&layout=compact)](https://github.com/tayserosa/github-readme-stats)
 
 
