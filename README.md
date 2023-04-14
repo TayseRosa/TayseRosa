@@ -13,7 +13,7 @@ I’m a Software Developer. Currently I'm student Analysis and Systems Developme
 
 Are you a React Native developer? How about **using my extension** in your VSCode to building components quickly?
 
-[![R Component VSCode Extension](https://img.shields.io/visual-studio-marketplace/v/rodrigorgtic.rcomponent.svg?label=RComponent%20VSCode%20Extension&color=8257E6&labelColor=0A1033)](https://marketplace.visualstudio.com/items?itemName=rodrigorgtic.rcomponent)
+[![R Component VSCode Extension](https://img.shields.io/visual-studio-marketplace/v/rodrigorgtic.rcomponent.svg?label=RComponent%20VSCode%20Extension&color=8257E6&labelColor=0A1033)]([[https://marketplace.visualstudio.com/items?itemName=rodrigorgtic.rcomponent](https://marketplace.visualstudio.com/items?itemName=tayseRosa2.extensoes-vscode-tayse-rosa)](https://marketplace.visualstudio.com/items?itemName=tayseRosa2.extensoes-vscode-tayse-rosa))
 
 ## 🚀 Technologies i know
 
