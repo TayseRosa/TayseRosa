@@ -4,9 +4,10 @@
 
 Gaúcha de Porto Alegre, desenvolvedora frontEnd, atualmente trabalhando como Freelancer e estudando Análise e Desenvolvimento de Sistemas 🚀
  
-### Minhas Habilidades
+### 🚀 Tecnologias
 
-💜 HTML5
+💜 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)](https://www.tayserosa.dev)
 
 💜 CSS
 
@@ -40,8 +41,7 @@ Clique abaixo e veja 👇
 
 ### 🚀 Tecnologias
 
-[![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-)](https://www.tayserosa.dev)
+
 
 [![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )](https://www.tayserosa.dev)
