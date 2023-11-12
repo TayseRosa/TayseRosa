@@ -65,10 +65,5 @@ Clique abaixo e veja 👇
 ### ❤️ Me encontre tambem nos links abaixo 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayse-rosa)](https://www.linkedin.com/in/tayse-rosa/) 
-
-
-[![Gmail Badge](https://img.shields.io/badge/-tayse.rosa88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tayse.rosa88@gmail.com)](mailto:tayse.rosa88@gmail.com)
-
-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/tayserosa/)](https://www.instagram.com/tayserosa/)
 
