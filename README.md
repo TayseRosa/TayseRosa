@@ -4,10 +4,10 @@
 ### Eu sou a Tayse {Code} Rosa
 ### Seja bem-vindo ao meu perfil GitHub. 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://devfolio.coderosa.tech/img/bkg.jpg" alt="Laptop se abrindo!!!" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 💜 Sou de Porto Alegre/RS, Brasil;
 - 💜 Desenvolvedora FrontEnd;
+- 💜 Sou de Porto Alegre/RS, Brasil;
 - 💜 Estudante de Análise e Desenvolvimento de Sistemas na Ulbra;
 - 💜 Atualmente trabalho como freelancer através da plataforma GetNinjas;
 - 💜 Atualmente também desenvolvo Templates e Temas para a plataforma TemplateMonster.
