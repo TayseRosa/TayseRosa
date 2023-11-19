@@ -4,7 +4,7 @@
 ### Eu sou a Tayse {Code} Rosa
 ### Seja bem-vindo ao meu perfil GitHub. 
 
-<img src="https://devfolio.coderosa.tech/img/bkg.jpg" alt="Laptop se abrindo!!!" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://devfolio.coderosa.tech/img/bkg.jpg" alt="Laptop se abrindo!!!" min-width="250px" max-width="250px" width="250px" align="right">
 
 - 💜 Desenvolvedora FrontEnd;
 - 💜 Sou de Porto Alegre/RS, Brasil;
