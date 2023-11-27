@@ -8,9 +8,9 @@
 
 - 💜 Desenvolvedora FrontEnd;
 - 💜 Sou de Porto Alegre/RS, Brasil;
-- 💜 Atualmente trabalho como freelancer através da plataforma GetNinjas;
-- 💜 Atualmente também desenvolvo soluções para plataforma Theme Forest e TemplateMonster.
-- 💜 Cursando de Análise e Desenvolvimento de Sistemas na Ulbra;
+- 💜 Atuo como freelancer através da plataforma GetNinjas;
+- 💜 Desenvolvo soluções para plataformas como Theme Forest e Templatemonster.
+- 💜 Cursando de Análise e Desenvolvimento de Sistemas na Ulbra(trancado no momento) 
 
 ---
 
