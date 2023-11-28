@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Olá mundo 👋
+## Olá mundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 ### Eu sou a Tayse {Code} Rosa
 ### Seja bem-vindo ao meu perfil GitHub. 
 
