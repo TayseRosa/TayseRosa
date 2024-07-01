@@ -6,24 +6,23 @@
 
 <img src="https://coderosa.tech/assets/images/logo.png" alt="Programadora" min-width="120px" max-width="120px" width="120px" align="right">
 
-- 💜 Desenvolvedora FrontEnd;
-- 💜 Sou de Porto Alegre/RS, Brasil;
-- 💜 Atuo como freelancer através da plataforma GetNinjas;
-- 💜 Desenvolvo soluções para plataformas como Theme Forest e Templatemonster.
-- 💜 Cursando de Análise e Desenvolvimento de Sistemas na Ulbra(trancado no momento) 
+- 💜 FrontEnd Developer;
+- 💜 I'm based in Porto Alegre/RS, Brasil;
+- 💜 I work as a freelancer through the GetNinjas platform;
+- 💜 Studying Systems Analysis and Development at Ulbra (currently suspended) 
 
 ---
 
-Você é um desenvolvedor e usa o VSCode?
+Are you a developer and use VSCode?
 
-Conheça a minha extensão para utilizar no seu VSCode as mesmas extensões que eu utilizo
-Clique abaixo 👇
+Check out my extension to use the same extensions I use in your VSCode
+Click below 👇
 
 [![R Component VSCode Extension](https://img.shields.io/visual-studio-marketplace/v/rodrigorgtic.rcomponent.svg?label=RComponent%20VSCode%20Extension&color=8257E6&labelColor=0A1033)](https://marketplace.visualstudio.com/items?itemName=tayseRosa2.extensoes-vscode-tayse-rosa)
 
 ---
 
-### 🚀 Tecnologias que utilizo
+### 🚀 Technologies I use
 
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -37,7 +36,7 @@ Clique abaixo 👇
 
 ---
 
-### 🚀 Ferramentas que utilizo:
+### 🚀 Tools i use
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
@@ -47,7 +46,7 @@ Clique abaixo 👇
 
 ---
 
-### Como entrar em contato comigo:
+### How to contact me:
 🚀 **Instagram**: https://www.instagram.com/tayserosa
 
 🚀 **Portfolio pessoal**: https://www.tayserosa.com/
