@@ -2,7 +2,7 @@
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 ### I'm Tayse {Code} Rosa
-<h3 align="center">I'm a passionate WordPress freelancer from Brazil with a few years of experience.</h3>
+<h3 align="center">I'm a passionate WordPress Theme Developer and i'm a freelancer from Brazil.</h3>
 
 <img src="https://coderosa.tech/assets/images/logo.png" alt="Programadora" min-width="120px" max-width="120px" width="120px" align="right">
 
