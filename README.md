@@ -6,9 +6,9 @@
 
 <img src="https://coderosa.tech/assets/images/logo.png" alt="Programadora" min-width="120px" max-width="120px" width="120px" align="right">
 
-- 💜 FrontEnd Developer;
+- 💜 I'm Wordpress Theme Developer;
 - 💜 I'm based in Porto Alegre/RS, Brasil;
-- 💜 I work as a freelancer through the GetNinjas platform;
+- 💜 I work as a freelancer through the platforms Freelancer;
 - 💜 Studying Systems Analysis and Development at Ulbra (currently suspended) 
 
 ---
