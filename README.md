@@ -2,14 +2,26 @@
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 ### I'm Tayse {Code} Rosa
-<h3 align="center">I'm a passionate WordPress Theme Developer and i'm a freelancer from Brazil.</h3>
+<h3 align="center">🌐 Web Designer & Front-End Dev</h3>
 
 <img src="https://coderosa.tech/assets/images/logo.png" alt="Programadora" min-width="120px" max-width="120px" width="120px" align="right">
 
-- 💜 I'm Wordpress Theme Developer;
-- 💜 I'm based in Porto Alegre/RS, Brasil;
-- 💜 I work as a freelancer through the platforms Freelancer;
-- 💜 Studying Systems Analysis and Development at Ulbra (currently suspended) 
+English:
+- 💜 I'm 🚀 Web Designer & Front-End Dev  
+- 💜 Creation of HTML, CSS, JS Templates & WordPress Themes  
+- 💜 Website Design in Figma  
+- 💜 Transforming ideas into unique digital experiences  
+- 💜 I work as a freelancer through Freelancer platforms  
+- 💜 Studying Systems Analysis and Development at Ulbra (currently on hold)
+
+- ---
+Portugues:
+- 💜 Sou 🚀 Web Designer & Desenvolvedor Front-End  
+- 💜 Criação de Templates em HTML, CSS, JS & Temas WordPress  
+- 💜 Design de Sites no Figma  
+- 💜 Transformando ideias em experiências digitais únicas  
+- 💜 Trabalho como freelancer através das plataformas Freelancer  
+- 💜 Estudando Análise e Desenvolvimento de Sistemas na Ulbra (atualmente suspenso)
 
 ---
 
