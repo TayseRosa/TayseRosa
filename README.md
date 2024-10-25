@@ -2,7 +2,7 @@
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 ### www.tayserosa.com
-<h3 align="center">🌐 Web Designer & Front-End Dev</h3>
+<h3 align="center">👩‍💻 Dev JavaScript Fullstack | React Native,React JS, NodeJS</h3>
 
 <img src="https://coderosa.tech/assets/images/logo.png" alt="Programadora" min-width="120px" max-width="120px" width="120px" align="right">
 
