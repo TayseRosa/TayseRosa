@@ -2,13 +2,13 @@
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 ### www.tayserosa.com
-<h3 align="center">👩‍💻 Dev JavaScript Fullstack | React Native,React JS, NodeJS</h3>
+<h3 align="center">👩‍💻 Dev JavaScript | React Native,React JS </h3>
 
 <img src="https://coderosa.tech/assets/images/logo.png" alt="Programadora" min-width="120px" max-width="120px" width="120px" align="right">
 
 English:
 - 💜 I'm 🚀 Web Designer & Front-End Dev  
-- 💜 Creation of HTML, CSS, JS Templates & WordPress Themes  
+- 💜 Creation of interface React Js and React Native 
 - 💜 Website Design in Figma  
 - 💜 Transforming ideas into unique digital experiences  
 - 💜 I work as a freelancer through Freelancer platforms  
@@ -17,7 +17,7 @@ English:
 - ---
 Portugues:
 - 💜 Sou 🚀 Web Designer & Desenvolvedor Front-End  
-- 💜 Criação de Templates em HTML, CSS, JS & Temas WordPress  
+- 💜 Criação de interface React e React Native. 
 - 💜 Design de Sites no Figma  
 - 💜 Transformando ideias em experiências digitais únicas  
 - 💜 Trabalho como freelancer através das plataformas Freelancer  
@@ -66,7 +66,7 @@ Click below 👇
 
 🚀 **WhatsApp**: https://api.whatsapp.com/send?phone=051982368077
 
-🚀 **Facebook**: https://www.facebook.com/wpdeveloper.net.br/
+🚀 **Facebook**: https://www.facebook.com/tayserosa-oficial
 
 ---
 
