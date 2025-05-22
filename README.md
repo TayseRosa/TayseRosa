@@ -2,78 +2,43 @@
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 ### www.tayserosa.com
-<h3 align="center">👩‍💻 Dev JavaScript | React Native,React JS </h3>
 
-<img src="https://coderosa.tech/assets/images/logo.png" alt="Programadora" min-width="120px" max-width="120px" width="120px" align="right">
+<h1>👋 &nbsp;Hey, i am Tayse Rosa Dev JavaScript Fullstack
+</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/tayserosa"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/tayserosa"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+</p>
+
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 English:
-- 💜 I'm 🚀 Web Designer & Front-End Dev  
-- 💜 Creation of interface React Js and React Native 
-- 💜 Website Design in Figma  
-- 💜 Transforming ideas into unique digital experiences  
-- 💜 I work as a freelancer through Freelancer platforms  
-- 💜 Studying Systems Analysis and Development at Ulbra (currently on hold)
 
-- ---
-Portugues:
-- 💜 Sou 🚀 Web Designer & Desenvolvedor Front-End  
-- 💜 Criação de interface React e React Native. 
-- 💜 Design de Sites no Figma  
-- 💜 Transformando ideias em experiências digitais únicas  
-- 💜 Trabalho como freelancer através das plataformas Freelancer  
-- 💜 Estudando Análise e Desenvolvimento de Sistemas na Ulbra (atualmente suspenso)
+💜 I'm 🚀 Web Designer & Front-End Dev
+💜 Creation of interface React Js and React Native
+💜 Website Design in Figma
+💜 Transforming ideas into unique digital experiences
+💜 I work as a freelancer through Freelancer platforms
+💜 Studying Systems Analysis and Development at Ulbra (currently on hold)
 
----
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
 
-Are you a developer and use VSCode?
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 
-Check out my extension to use the same extensions I use in your VSCode
-Click below 👇
+<h3>⚙️ &nbsp;Back-end & databases:</h3>
 
-[![R Component VSCode Extension](https://img.shields.io/visual-studio-marketplace/v/rodrigorgtic.rcomponent.svg?label=RComponent%20VSCode%20Extension&color=8257E6&labelColor=0A1033)](https://marketplace.visualstudio.com/items?itemName=tayseRosa2.extensoes-vscode-tayse-rosa)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
----
+<h2>🚀 &nbsp;My GitHub Stats</h2>
 
-### 🚀 Technologies I use
-[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
-[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
-[<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
-[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
-[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
-
----
-
-### 🚀 Tools i use
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
-[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
-
-
----
-
-### How to contact me:
-🚀 **Instagram**: https://www.instagram.com/tayserosa
-
-🚀 **Portfolio pessoal**: https://www.tayserosa.com/
-
-🚀 **LinkedIn**: https://www.linkedin.com/in/tayse-rosa/
-
-🚀 **WhatsApp**: https://api.whatsapp.com/send?phone=051982368077
-
-🚀 **Facebook**: https://www.facebook.com/tayserosa-oficial
-
----
-
-### Statistics:
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayserosa&layout=compact&langs_count=7&theme=radical"/>
-
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=tayserosa&show_icons=true&include_all_commits=true&theme=radical"/>
-
-</div>
+![Tayse Rosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayserosa&show_icons=true&theme=dracula)
