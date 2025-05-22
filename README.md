@@ -13,13 +13,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-English:
-
-💜 I'm 🚀 Web Designer & Front-End Dev
-💜 Creation of interface React Js and React Native
-💜 Website Design in Figma
-💜 Transforming ideas into unique digital experiences
-💜 I work as a freelancer through Freelancer platforms
+💜 I'm 🚀 Web Designer & Front-End Dev <br/>
+💜 Creation of interface React Js and React Native<br/>
+💜 Website Design in Figma<br/>
+💜 Transforming ideas into unique digital experiences<br/>
+💜 I work as a freelancer through Freelancer platforms<br/>
 💜 Studying Systems Analysis and Development at Ulbra (currently on hold)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
