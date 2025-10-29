@@ -4,6 +4,11 @@
 ### www.tayserosa.com
 
 <h1>💜 Prazer, eu sou Tayse Rosa!
+  <p>UI/UX Designer & Frontend Developer — apaixonada por transformar ideias em experiências digitais que unem beleza, funcionalidade e propósito. 🚀
+
+Estou em constante aperfeiçoamento nas áreas de UI Design, UX e Frontend, sempre buscando novas formas de criar projetos estratégicos, criativos e centrados no usuário. ✨
+
+Acredito que um bom design vai além da estética: ele comunica, conecta e transforma. 💡</p>
 </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/tayse-rosa"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
