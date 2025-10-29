@@ -3,7 +3,7 @@
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 ### www.tayserosa.com
 
-<h1>👋 &nbsp;Hey, i am Tayse Rosa Dev JavaScript Fullstack
+<h1>💜 Prazer, eu sou Tayse Rosa!
 </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/tayse-rosa"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
