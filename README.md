@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 ### www.tayserosa.com
 
-<h1>💜 Prazer, eu sou Tayse Rosa!</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+<h1>💜 Prazer, eu sou Tayse Rosa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> </h1>
   <p>UI/UX Designer & Frontend Developer — apaixonada por transformar ideias em experiências digitais que unem beleza, funcionalidade e propósito. 🚀
 
 Estou em constante aperfeiçoamento nas áreas de UI Design, UX e Frontend, sempre buscando novas formas de criar projetos estratégicos, criativos e centrados no usuário. ✨
