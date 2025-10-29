@@ -43,3 +43,8 @@ Acredito que um bom design vai além da estética: ele comunica, conecta e trans
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
 ![Tayse Rosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayserosa&show_icons=true&theme=dracula)
+
+
+💻 #UIDesign • #UXDesign • #FrontendDeveloper • #DesignDeInterfaces
+🎨 #WebDesign • #InterfaceDesign • #DesignProfissional • #Figma
+🚀 @agenciaorangedigital
