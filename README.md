@@ -14,27 +14,16 @@ Acredito que um bom design vai além da estética: ele comunica, conecta e trans
 
 </p>
 ---
-## 🛠️ Stacks & Ferramentas  
-- 🎨 Figma  
-- 💻 HTML, CSS, JavaScript  
-- 🧩 WordPress, Elementor, Framer  
----
-## 💡 Áreas de Interesse  
-**#UIDesign** • **#UXDesign** • **#FrontendDevelopment** • **#WebDesign** • **#DesignDeInterfaces**  
----
-📫 Vamos nos conectar:  
-[@agenciaorangedigital](https://www.instagram.com/agenciaorangedigital)
+<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+💜 I'm 🚀 UI/UX Designer & Frontend developer <br/>
+💜 Design de interfaces em Figma<br/>
+💜 Transformando ideias em experiências digitais.<br/>
+💜 Trabalho como freelancer através da plataforma GetNinjas.<br/>
+💜 Estudante de Análise e Desenvolvimento na Ulbra
 
-💜 I'm 🚀 Web Designer & Front-End Dev <br/>
-💜 Creation of interface React Js and React Native<br/>
-💜 Website Design in Figma<br/>
-💜 Transforming ideas into unique digital experiences<br/>
-💜 I work as a freelancer through Freelancer platforms<br/>
-💜 Studying Systems Analysis and Development at Ulbra (currently on hold)
+<h2> 🛠 &nbsp;Stacks e ferramentas</h2>
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -45,17 +34,17 @@ Acredito que um bom design vai além da estética: ele comunica, conecta e trans
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 
-<h3>⚙️ &nbsp;Back-end & databases:</h3>
+<h3>⚙️ &nbsp;Back-end & bancos de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-<h2>🚀 &nbsp;My GitHub Stats</h2>
+<h2>🚀 &nbsp;Meu status no GitHub</h2>
 
 ![Tayse Rosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayserosa&show_icons=true&theme=dracula)
 
 
-💻 #UIDesign • #UXDesign • #FrontendDeveloper • #DesignDeInterfaces
-🎨 #WebDesign • #InterfaceDesign • #DesignProfissional • #Figma
+
+🚀 @tayserosa
 🚀 @agenciaorangedigital
