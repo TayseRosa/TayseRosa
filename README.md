@@ -13,6 +13,17 @@ Acredito que um bom design vai além da estética: ele comunica, conecta e trans
 <a href="https://instagram.com/tayserosa"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 </p>
+---
+## 🛠️ Stacks & Ferramentas  
+- 🎨 Figma  
+- 💻 HTML, CSS, JavaScript  
+- 🧩 WordPress, Elementor, Framer  
+---
+## 💡 Áreas de Interesse  
+**#UIDesign** • **#UXDesign** • **#FrontendDevelopment** • **#WebDesign** • **#DesignDeInterfaces**  
+---
+📫 Vamos nos conectar:  
+[@agenciaorangedigital](https://www.instagram.com/agenciaorangedigital)
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
