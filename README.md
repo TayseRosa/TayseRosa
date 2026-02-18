@@ -2,12 +2,15 @@
 www.tayserosa.com
 
 <h1>💜 Prazer, eu sou Tayse Rosa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> </h1>
-  <p>UI/UX Designer & Frontend Developer — apaixonada por transformar ideias em experiências digitais que unem beleza, funcionalidade e propósito. 🚀
+Desenvolvedora Web desde 2013, movida a café ☕ e linhas de código bem escritas.
 
-Estou em constante aperfeiçoamento nas áreas de UI Design, UX e Frontend, sempre buscando novas formas de criar projetos estratégicos, criativos e centrados no usuário. ✨
+Sou apaixonada por programação web, por entender como tudo funciona por trás das telas e por transformar ideias em projetos reais.
 
-Acredito que um bom design vai além da estética: ele comunica, conecta e transforma. 💡</p>
-</h1>
+Comecei na área criando sites e nunca mais parei. Desde então, já atuei como freelancer, desenvolvi temas personalizados em WordPress para agências de conteúdo web e trabalhei como desenvolvedora JavaScript utilizando React JS e React Native.
+
+Aprendo fazendo. Testando. Errando. Refatorando.
+Código limpo e bem estruturado me deixa genuinamente feliz 😌✨  
+
 <p align="center">
 <a href="https://www.linkedin.com/in/tayse-rosa"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/tayserosa"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
