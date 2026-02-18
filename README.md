@@ -19,15 +19,15 @@ Código limpo e bem estruturado me deixa genuinamente feliz 😌✨
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
 💜 I'm Frontend developer 🚀 <br/>
-💜 HTML
-💜 CSS
-💜 JavaScript
-💜 React JS
-💜 React Native📱 
-💜 PHP
-💜 WordPress (Plugins e Temas personalizados)
-💜 Figma<br/>
-💜 Curso Superior em Análise e Desenvolvimento na Ulbra
+💜 HTML <br/>
+💜 CSS <br/>
+💜 JavaScript <br/>
+💜 React JS <br/>
+💜 React Native📱 <br/> 
+💜 PHP <br/>
+💜 WordPress (Plugins e Temas personalizados) <br/>
+💜 Figma <br/>
+💜 Curso Superior em Análise e Desenvolvimento na Ulbra <br/>
 
 <h2> 🛠 &nbsp;Stacks e ferramentas</h2>
 
